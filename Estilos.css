@@ -1,0 +1,28 @@
+body{
+	background-image: url("https://th.bing.com/th/id/Ra8139a6884ed6e262c77ae7f42ea7c0a?rik=M%2bGClZyWYKrcEQ&riu=http%3a%2f%2fyodobi.com%2f4k-Wallpapers%2fsunrise-wallpapers-high-definition-Is-4K-Wallpaper.jpg&ehk=ODfCtdnrqIARx43bBUrr8os%2b4JU24ntJIT64sJHq%2frY%3d&risl=&pid=ImgRaw") ;
+
+	}
+
+#formulario {
+	text-align: center;
+	padding: 10px;
+	margin-left: 38%; 
+	margin-top: 8%; 
+	margin-right: 38%;
+	background-color: #eee;
+	border-color: #888;
+	border-radius: 6%;
+	box-shadow: inset 0px 0px 10px #000,
+					  0px 0px 70px #000;  
+	}
+
+#formulario h2{
+	text-decoration-line: underline;
+	margin-top: ;
+
+}
+
+#formulario * {
+	margin-top: 10px;
+	margin-bottom: 12px;
+}
